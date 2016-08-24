@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Jenkins auto build on git commit");
+            afadf
             Console.ReadKey();
  
             
