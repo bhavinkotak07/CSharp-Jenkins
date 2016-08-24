@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            hrae
+            Console.WriteLine("Jenkins auto build on git commit");
             Console.ReadKey();
  
             
